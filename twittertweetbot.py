@@ -39,8 +39,8 @@ class Twitterbot():
 
 
 if __name__ == '__main__':
-    username = 'testpyt79627367'
-    password = 'Test1234!!'
+    username = '****'
+    password = '****'
     t = Twitterbot(username, password)
     t.signIn()
     count = 0
